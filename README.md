@@ -1,2 +1,2 @@
 # DNS-Server-Configuration-Rocky-Linux-Ubuntu-
-This project implements DNS configuration to enable proper domain name resolution and network communication.
+This repository contains a DNS configuration project demonstrating how domain name resolution is implemented and tested in a network environment. The project was configured using Rocky Linux and Ubuntu, covering DNS setup, basic configuration, and verification of name-to-IP address mapping. It is intended for learning and practice in networking, system administration, and IT fundamentals.
